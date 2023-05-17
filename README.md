@@ -3,7 +3,6 @@
 ### Hi there 👋, I'm Zinadin Zidan
 #### I am Web Developer and Graphics Designer
 
-
 I have years of expertise working with programs like Photoshop, Illustrator, HTML, CSS, and JavaScript as a proficient graphic and online designer. I have worked on a range of projects during my career, from designing logos, flyers, banners, and branding materials to building websites.
 
 With my ability to create visually appealing designs and effectively communicate clients' messages, I have successfully delivered high-quality work that has received positive feedback. I have a collaborative approach, working closely with clients and team members to achieve the desired outcome.
